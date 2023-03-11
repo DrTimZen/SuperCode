@@ -1,0 +1,19 @@
+body {
+  font-family: "Press Start 2P";
+  background-color: blueviolet;
+
+  height: 100vh;
+}
+button {
+  font-family: "Press Start 2P";
+  font-size: larger;
+  margin: 40px 50px;
+  padding: 10px;
+}
+input {
+  font-size: x-large;
+}
+
+.inputField {
+  margin: 50svh 50svh;
+}
